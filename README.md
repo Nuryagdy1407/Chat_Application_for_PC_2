@@ -1,5 +1,5 @@
 # Chat_Application_for_PC_2
-Second version of chat application!
+"Ýönekeý" is second version of chat application!
 
 Everything is like the first version.
 
